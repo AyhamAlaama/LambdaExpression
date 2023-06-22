@@ -54,5 +54,6 @@ class Human
 Func<int,bool> ex = x => x % 2=0;
 //Action with sequence-of-statements
  ```
-
-> Any lambda expression can be converted to a delegate type
+`
+`
+> Note : Any lambda expression can be converted to a delegate type
