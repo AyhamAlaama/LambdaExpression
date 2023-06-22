@@ -55,5 +55,6 @@ Func<int,bool> ex = x => x % 2=0;
 //Action with sequence-of-statements
  ```
 `
+
 `
 > Note : Any lambda expression can be converted to a delegate type
