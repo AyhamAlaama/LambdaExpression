@@ -1,8 +1,7 @@
-## $${\color{red}Lambda \space expression \space \color{lightblue} And \space \color{orange}Expression \space body \space definition}$$
+## Lambda expression And Expression body definition
 
 #### Lambda Declaration Operator:   = > 
 *in lambda expression we have a left side and right side*
-__And we have two Types of it (A&B):__
  
 ```diff
 > A. Expression Bodied Members
